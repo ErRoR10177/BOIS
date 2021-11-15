@@ -16,7 +16,6 @@ h1{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
-
 }
 
 .flex__item{
@@ -30,6 +29,13 @@ h1{
 
 /************** section 1 starts here **************/
 
+.FloppaPic{
+	width: 75%;
+}
+.FloppaBorder{
+	justify-content: center;
+	display: flex;
+}
 
 /************** section 2 starts here **************/
 .kitkat-item{
@@ -129,6 +135,7 @@ h1{
 }
 
 /************** section 10 starts here **************/
+
 
 /************** section 11 starts here **************/
 
